@@ -4,10 +4,10 @@
     <title>Butter blog</title>
     <description>Passion in cycling and coding. Working hard, dreaming big. Doing what is right, not what is easy.
 </description>
-    <link>/butter-blog/butter-blog/</link>
-    <atom:link href="/butter-blog/butter-blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Nov 2017 22:15:02 +0200</pubDate>
-    <lastBuildDate>Sat, 04 Nov 2017 22:15:02 +0200</lastBuildDate>
+    <link>https://neone35.github.io/butter-blog/butter-blog/</link>
+    <atom:link href="https://neone35.github.io/butter-blog/butter-blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 08 Nov 2017 20:14:24 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Nov 2017 20:14:24 +0200</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       
@@ -34,8 +34,8 @@
 </description>
         
         <pubDate>Mon, 09 Oct 2017 00:00:00 +0300</pubDate>
-        <link>/butter-blog/butter-blog/2017/10/09/testing-out-admin.html</link>
-        <guid isPermaLink="true">/butter-blog/butter-blog/2017/10/09/testing-out-admin.html</guid>
+        <link>https://neone35.github.io/butter-blog/butter-blog/2017/10/09/testing-out-admin.html</link>
+        <guid isPermaLink="true">https://neone35.github.io/butter-blog/butter-blog/2017/10/09/testing-out-admin.html</guid>
         
         
       </item>
@@ -110,8 +110,8 @@
 </description>
         
         <pubDate>Mon, 15 Dec 2014 00:00:00 +0200</pubDate>
-        <link>/butter-blog/butter-blog/2014/12/15/example-post-formatting.html</link>
-        <guid isPermaLink="true">/butter-blog/butter-blog/2014/12/15/example-post-formatting.html</guid>
+        <link>https://neone35.github.io/butter-blog/butter-blog/2014/12/15/example-post-formatting.html</link>
+        <guid isPermaLink="true">https://neone35.github.io/butter-blog/butter-blog/2014/12/15/example-post-formatting.html</guid>
         
         
       </item>
@@ -138,8 +138,8 @@
 </description>
         
         <pubDate>Sun, 14 Dec 2014 00:00:00 +0200</pubDate>
-        <link>/butter-blog/butter-blog/2014/12/14/featured-image.html</link>
-        <guid isPermaLink="true">/butter-blog/butter-blog/2014/12/14/featured-image.html</guid>
+        <link>https://neone35.github.io/butter-blog/butter-blog/2014/12/14/featured-image.html</link>
+        <guid isPermaLink="true">https://neone35.github.io/butter-blog/butter-blog/2014/12/14/featured-image.html</guid>
         
         
       </item>
@@ -167,8 +167,8 @@
 </description>
         
         <pubDate>Sat, 13 Dec 2014 00:00:00 +0200</pubDate>
-        <link>/butter-blog/butter-blog/2014/12/13/code-snippet.html</link>
-        <guid isPermaLink="true">/butter-blog/butter-blog/2014/12/13/code-snippet.html</guid>
+        <link>https://neone35.github.io/butter-blog/butter-blog/2014/12/13/code-snippet.html</link>
+        <guid isPermaLink="true">https://neone35.github.io/butter-blog/butter-blog/2014/12/13/code-snippet.html</guid>
         
         
       </item>
@@ -205,8 +205,8 @@
 </description>
         
         <pubDate>Fri, 12 Dec 2014 00:00:00 +0200</pubDate>
-        <link>/butter-blog/butter-blog/2014/12/12/figure-with-caption.html</link>
-        <guid isPermaLink="true">/butter-blog/butter-blog/2014/12/12/figure-with-caption.html</guid>
+        <link>https://neone35.github.io/butter-blog/butter-blog/2014/12/12/figure-with-caption.html</link>
+        <guid isPermaLink="true">https://neone35.github.io/butter-blog/butter-blog/2014/12/12/figure-with-caption.html</guid>
         
         
       </item>
@@ -235,8 +235,8 @@
 </description>
         
         <pubDate>Thu, 11 Dec 2014 00:00:00 +0200</pubDate>
-        <link>/butter-blog/butter-blog/2014/12/11/image-in-post.html</link>
-        <guid isPermaLink="true">/butter-blog/butter-blog/2014/12/11/image-in-post.html</guid>
+        <link>https://neone35.github.io/butter-blog/butter-blog/2014/12/11/image-in-post.html</link>
+        <guid isPermaLink="true">https://neone35.github.io/butter-blog/butter-blog/2014/12/11/image-in-post.html</guid>
         
         
       </item>
@@ -263,8 +263,8 @@
 </description>
         
         <pubDate>Wed, 10 Dec 2014 00:00:00 +0200</pubDate>
-        <link>/butter-blog/butter-blog/2014/12/10/test-post.html</link>
-        <guid isPermaLink="true">/butter-blog/butter-blog/2014/12/10/test-post.html</guid>
+        <link>https://neone35.github.io/butter-blog/butter-blog/2014/12/10/test-post.html</link>
+        <guid isPermaLink="true">https://neone35.github.io/butter-blog/butter-blog/2014/12/10/test-post.html</guid>
         
         
       </item>
@@ -291,8 +291,8 @@
 </description>
         
         <pubDate>Wed, 10 Dec 2014 00:00:00 +0200</pubDate>
-        <link>/butter-blog/butter-blog/2014/12/10/test-post-copy.html</link>
-        <guid isPermaLink="true">/butter-blog/butter-blog/2014/12/10/test-post-copy.html</guid>
+        <link>https://neone35.github.io/butter-blog/butter-blog/2014/12/10/test-post-copy.html</link>
+        <guid isPermaLink="true">https://neone35.github.io/butter-blog/butter-blog/2014/12/10/test-post-copy.html</guid>
         
         
       </item>
